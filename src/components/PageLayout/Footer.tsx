@@ -12,35 +12,35 @@ const Footer = () => {
           
           <div className="flex items-center gap-6 text-sm">
             <a 
-              href="https://github.com/aryalrojan" 
+              href="https://github.com/aryalrojan/Taksha" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-stone-500 hover:text-stone-900 transition-colors"
             >
-              GitHub
+              ∫
             </a>
-            <a 
+            {/* <a 
               href="https://rojanaryal.com.np" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-stone-500 hover:text-stone-900 transition-colors"
             >
               Portfolio
-            </a>
+            </a> */}
           </div>
         </div>
 
         <div className="mt-8 pt-6 border-t border-stone-200 text-center">
           <p className="text-stone-400 text-sm">
-            &copy; {year} Taksha · Made in Nepal by{" "}
-            <a
+            &copy; {year} Taksha · Made in Nepal{" "}
+            {/* <a
               href="https://rojanaryal.com.np"
               target="_blank"
               rel="noopener noreferrer"
               className="text-stone-600 hover:text-stone-900 transition-colors"
             >
               Rojan Aryal
-            </a>
+            </a> */}
           </p>
         </div>
       </div>

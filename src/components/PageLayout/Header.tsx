@@ -53,7 +53,7 @@ const Header = () => {
               </li>
               <li>
                 <a 
-                  href="https://github.com/aryalrojan" 
+                  href="https://github.com/aryalrojan/Taksha" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-stone-500 hover:text-stone-900 transition-colors"
