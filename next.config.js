@@ -9,8 +9,6 @@ const nextConfig = {
       },
     ],
   },
-  // Disable Turbopack due to Pages Router compatibility issues
-  turbopack: false,
 };
 
 module.exports = nextConfig;
